@@ -1,0 +1,44 @@
+html {
+  background-color: #ddd;
+  height: 100%;
+  display: flex;
+}
+
+body{
+  width: 100%;
+  margin: auto;
+}
+
+.App{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+.todo-list{
+  background-color: #E2EF70;
+  font-size: 18px;
+  max-width: 300px;
+  margin: auto;
+  margin-bottom: 24px;
+  padding: 8px 16px;
+  box-shadow: 0 5px 30px rgba(0,0,0,0.2);
+  border-radius: 15px;
+}
+
+$colorBlue: #9AC2C9;
+$colorHover: #FFE6E8;
+
+@mixin button($class, $color, $colorHover){
+  .button.#{$class} {background: $color;}
+  .button.#{$class}:hover {background: $colorHover;}
+  .button.#{$class}:active{background: $color;}
+}
+
+.button{
+  outline: none;
+  padding: 8px;
+  border-radius: 15px;
+  border: 1px solid black;
+}
+@include button('blue', $colorBlue, $colorHover)
+
+
