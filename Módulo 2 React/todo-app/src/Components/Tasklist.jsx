@@ -20,7 +20,7 @@ const Tasklist = props =>{
     };
 
     const checkbox= list.map(item => (
-        <Checkbox key={item.id} data = {item} onChange={onChangeStatus}/>
+        <Checkbox key={item.id} data={item} onChange={onChangeStatus}/>
     ))
 
     return (

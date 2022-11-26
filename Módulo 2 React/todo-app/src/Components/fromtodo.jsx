@@ -25,7 +25,7 @@ const Fromtodo = props =>{
     return(
         <form onSubmit={manejarSubmit}>
             <div className="todo-list">
-                <div className="input">
+                <div className="file-input">
                     <input type="text" 
                         className="text" 
                         value={description} 
