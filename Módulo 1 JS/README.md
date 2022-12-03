@@ -31,11 +31,10 @@
 
 <h3>Códigos</h3>
 
-<ul>
+1. [App.html](https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/Pr%C3%A1ctica/app.html)
 
-    <li> [App.html] (https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/Pr%C3%A1ctica/app.html) </li>
-    <li>CSS</li>
-    <li>Manejo del DOM</li>
-    <li>Manejo de eventos</li>
+2. [App.css](https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/Pr%C3%A1ctica/app.css)
 
-</ul>
+3. [Antesdelbody.js](https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/Pr%C3%A1ctica/antesdelbody.js)
+
+4. [App.js](https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/Pr%C3%A1ctica/app.js)
