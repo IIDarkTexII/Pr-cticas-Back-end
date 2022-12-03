@@ -1,4 +1,4 @@
-# Prácticas-Backe-End.
+# Prácticas-Back-End.
 
 Ejercicios realizados al aprender Back-End 👨‍💻 con la organización Launch X de Microsoft <br>
 
