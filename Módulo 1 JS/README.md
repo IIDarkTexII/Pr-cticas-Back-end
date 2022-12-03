@@ -38,3 +38,5 @@
 3. [Antesdelbody.js](https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/Pr%C3%A1ctica/antesdelbody.js)
 
 4. [App.js](https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/Pr%C3%A1ctica/app.js)
+
+<img src="https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/IMG/Pedimiento.png" width="40%" height= "40%">
