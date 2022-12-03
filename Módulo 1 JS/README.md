@@ -41,4 +41,4 @@
 
 <img src="https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/IMG/Pedimiento.png" width="40%" height= "40%">
 
-<img src="https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/IMG/Pedimiento.png" width="40%" height= "40%">
+<img src="https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%201%20JS/IMG/Pedimiento2.png" width="40%" height= "40%">
