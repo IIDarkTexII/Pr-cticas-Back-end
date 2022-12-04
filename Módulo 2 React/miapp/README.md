@@ -1,5 +1,3 @@
-# Getting Started with Create React App
+# Mi app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Se creó un reloj mostrando la hora local y la hora Qatar
+En este ejercicio se creó un reloj mostrando la hora local y la hora Qatar utilizando Syntactically Awesome Style Sheets (Sass)
