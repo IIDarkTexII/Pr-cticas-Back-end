@@ -3,7 +3,7 @@
 <h1> ¿Qué es? </h1>
 <p> React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.
 React intenta ayudar a los desarrolladores a construir aplicaciones que usan datos que cambian todo el tiempo.</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" width="40%" height= "40%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" width="30%" height= "30%">
 
 <h2> ¿Qué aprendí?</h2>
 
@@ -22,4 +22,4 @@ React intenta ayudar a los desarrolladores a construir aplicaciones que usan dat
 
 3. [To-do-app](https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/tree/main/M%C3%B3dulo%202%20React/todo-app)
 
-<img src="https://yt3.ggpht.com/ytc/AMLnZu_lIhTlaHwhqn42TKtUM39liDlTT5epGbsgAFkgug=s900-c-k-c0x00ffffff-no-rj" width="40%" height= "40%" >
+<img src="https://media1.giphy.com/media/sYItmQBLxA4rvYkbFS/200w.webp?cid=ecf05e479lveompovgm1jfrbsy1j4hpbqas6784zljkprp3d&rid=200w.webp&ct=g" width="40%" height= "40%" >
