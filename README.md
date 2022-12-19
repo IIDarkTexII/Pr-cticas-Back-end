@@ -2,7 +2,7 @@
 
 Ejercicios realizados al aprender Back-End 👨‍💻 con la organización Launch X de Microsoft <br>
 
-<p> En esta sección se vió un poco de Front-End al inicio para aprender a usar Reat</p>
+<p> En esta sección se vió un poco de Front-End al inicio para aprender a usar React</p>
 
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="50%" height="30%">
 
