@@ -29,4 +29,7 @@
 
 [Mostrar página con Nodejs](https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/tree/main/M%C3%B3dulo%203%20Node%20js/Mostrar%20pagina%20Nodejs)
 
+<img src="https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%203%20Node%20js/IMG/Mostrarpagina.png" width="40%" height= "40%" >
+<img src="https://github.com/IIDarkTexII/Practicas-Back-end-LAUNCH-X/blob/main/M%C3%B3dulo%203%20Node%20js/IMG/registro.png" width="40%" height= "40%" >
+
 [Barcos Multijugador con sockets](https://github.com/IIDarkTexII/Juego-Barcos)
