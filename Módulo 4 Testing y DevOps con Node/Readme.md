@@ -2,7 +2,7 @@
 
 <h1> ¿Qué es? </h1>
 <p> El testing es el proceso de ejecutar pruebas en un programa o aplicación para asegurar que funciona correctamente. Existen diferentes tipos de pruebas, como las pruebas unitarias, las pruebas de integración y las pruebas de aceptación, cada una de las cuales tiene un propósito específico.</p>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--e_rqeB7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AFPtQLT2Zk-baHficCz_mXQ.png" width="30%" height= "30%">
+<img src="https://academiaqa.com/wp-content/uploads/2022/09/testing-image-1024x838.jpg" width="30%" height= "30%">
 
 <h2> ¿Qué aprendí?</h2>
 
